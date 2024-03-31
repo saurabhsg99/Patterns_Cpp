@@ -27,7 +27,7 @@ The following patterns are available:
 <img src = "Screenshots/S (5).png" width = "500" height = "300" alt = "Screenshots">
 <img src = "Screenshots/S (6).png" width = "500" height = "300" alt = "Screenshots">
 <img src = "Screenshots/S (4).png" width = "500" height = "600" alt = "Screenshots">
-<img src = "Screenshots/S (7).png" width = "500" height = "400" align = "top" alt = "Screenshots">
+<img src = "Screenshots/S (7).png" width = "400" height = "400" align = "top" alt = "Screenshots">
  
 
 </div>
