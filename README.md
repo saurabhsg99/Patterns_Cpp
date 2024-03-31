@@ -23,12 +23,12 @@ The following patterns are available:
 
 ## Screenshots
 <div style = "display = "grid"">
-<img src = "Screenshots/S (2).png" width = "500" height = "400" alt = "Screenshots">
-<img src = "Screenshots/S (3).png" width = "500" height = "400" alt = "Screenshots">
-<img src = "Screenshots/S (5).png" width = "500" height = "300" alt = "Screenshots">
-<img src = "Screenshots/S (6).png" width = "500" height = "300" alt = "Screenshots">
-<img src = "Screenshots/S (4).png" width = "500" height = "600" alt = "Screenshots">
-<img src = "Screenshots/S (7).png" width = "500" height = "400" align = "top" alt = "Screenshots">
+<img src = "Screenshots/S (2).png" width = "400" height = "300" alt = "Screenshots">
+<img src = "Screenshots/S (3).png" width = "400" height = "300" alt = "Screenshots">
+<img src = "Screenshots/S (5).png" width = "400" height = "200" alt = "Screenshots">
+<img src = "Screenshots/S (6).png" width = "400" height = "200" alt = "Screenshots">
+<img src = "Screenshots/S (4).png" width = "400" height = "500" alt = "Screenshots">
+<img src = "Screenshots/S (7).png" width = "400" height = "300" align = "top" alt = "Screenshots">
  
 
 </div>
