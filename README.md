@@ -19,6 +19,19 @@ The following patterns are available:
 11. Alphabet Patterns
                  and so on.
 
+
+## Screenshots
+<div style = "display = "grid"">
+<img src = "Screenshots/S (2).png" width = "500" height = "400" alt = "Screenshots">
+<img src = "Screenshots/S (3).png" width = "500" height = "400" alt = "Screenshots">
+<img src = "Screenshots/S (5).png" width = "500" height = "300" alt = "Screenshots">
+<img src = "Screenshots/S (6).png" width = "500" height = "300" alt = "Screenshots">
+<img src = "Screenshots/S (4).png" width = "500" height = "600" alt = "Screenshots">
+<img src = "Screenshots/S (7).png" width = "500" height = "400" align = "top" alt = "Screenshots">
+ 
+
+</div>
+
 ## How to Use
 
 To use these patterns in your C++ programs, simply include the necessary header files and call the respective functions with the desired parameters. The patterns are implemented as void functions that print the patterns directly to the console.
